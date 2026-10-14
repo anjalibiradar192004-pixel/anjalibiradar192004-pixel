@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Anjali Biradar
 
-### 💻 Aspiring Full Stack Java Developer
+### 💻 Aspiring  Frontend Developer
 
 🎓 2026 Graduate • 🚀 Building Projects • 🌱 Continuous Learner
 
